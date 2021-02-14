@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kris @krjw-00
+- 👀 I’m interested in computer science and looking to become a software engineer in 2021
+- 🌱 I’m currently learning about computer science, specifically Python and JavaScript.
+- 📫 Reach me on Twitter @krisjwoody or www.linkedin.com/in/krisjwood
